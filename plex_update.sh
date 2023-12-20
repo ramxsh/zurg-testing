@@ -5,7 +5,7 @@
 # sudo apt install python3
 
 plex_url="http://yourplexip:32400" # If you're using zurg inside a Docker container, by default it is 172.17.0.1:32400
-token="yourplextoken"
+token="claim-q6x58WyF6EFJZswx4Cwc"
 zurg_mount="/mnt/zurg" # replace with your zurg mount
 
 # Get the list of section IDs
